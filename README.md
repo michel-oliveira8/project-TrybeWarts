@@ -1,3 +1,6 @@
+# Projeto realizado em dupla durante curso na Trybe - Módulo de Fundamentos
+# Data da entrega do projeto 28/07/2021
+
 # Habilidades
 Neste projeto, verificamos se você é capaz de:
   * Criar formulários em HTML;
